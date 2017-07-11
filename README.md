@@ -9,6 +9,7 @@ user specification
 
 step 1:
     enter a directory name after the indication words "Pleas input the target dir: ".
+
 step 2:
     enter a file name for the output agter the indication words "Please input the output file name (.xlsx): "
 
