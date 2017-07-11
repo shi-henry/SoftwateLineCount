@@ -130,8 +130,8 @@ def mainFunction():
 
 if __name__ == "__main__":
     start = time.time()
-    # mainFunction()
-    tt = CuntFileCodeLine("/home/shigm/cc++/aa.cpp")
-    print tt
+    mainFunction()
+    # tt = CuntFileCodeLine("/home/shigm/cc++/aa.cpp")
+    # print tt
     dur = time.time() - start
     print "Cost %d seconds !" % dur
